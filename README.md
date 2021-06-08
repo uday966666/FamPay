@@ -15,7 +15,7 @@ prerequesites
 git clone git@github.com:uday966666/FamPay.git
 
 cd FamPay
--- 
+
 creating docker Image 
 docker build -t fampay .
 
