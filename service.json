@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fampay-316108",
+  "private_key_id": "75c63a2130a1ae2b47af0ba002f541f482f6fd62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDuQ/A5IQHpeqZR\noQHyF6e5izqZnzLx4I7T9tueEC7QE/FCaQGieDgD7ixwBJdzs1D3fHW4x4o6hSPM\n+4JQescxE4CPJ5c2CXpl53CACjNIw40Be5kwbKBGqmJMXVwiJkslFvPPggw0dv3a\nSCdLIeBq5mo5mn2SLtk5naaj+HynB3DQAVbCk09Wg6wsfmWlPYnej6WoAJ4umQHV\nRQiHY4LhC/Yo7oq3mf3MojkSs25Rr3ZXNYwYSiF+M2rEntRzw0Kf0zypa/ACVSl1\nih4c9fjLOeJTN5gMJdHkMhVQ5TXS1MkjFOj5osWgVR5/WggHYncpxoKM4J4kKv/0\ntP+KYsDbAgMBAAECggEADfhAxPC4/nn4929DwHB/noLZyDkL0R+z8ByYqs9TF1Mc\nAaNLe72ltyFHTLgQMzHvzNrowhE8+wpkW3fhn5tbQ3bbwkj1di8fFIt5zqAKerkw\ncsZO6IZt7Ua/JbARn1T0cfPDDscWtRrG7n3tg9u0H0BsOP1kYGZLyTODmjiPAnHx\nxtCEIs/s77RT+eytclUyDQCIiHjGRm2sC2EQR7zRPMzMa5XN6AAJgrbRSY/53kXK\ni4KoZkgk3M5FbJoQw6D8Qm7smXzU1FENpm4wx0cfn4h4I1Ga+uRSXy8Q3epqOO/u\nJnGZhOVBjcu5PIzwpr4xV4D+FP568l7glTQDUY+BmQKBgQD3AyplaKbf2Kr+4PfS\nf+7hbX7MKAgOP14tc3zIV+SJx3W2wr1F3OHMxbyhbkLIBIN1VJgcAzNA2N62Nf2a\nTnJDt04th47TBY7giE59N+xtzn6g5/kMt1gTR8SFg8mlRzHhzzM80uABM9OIHLmv\njbnRZrNSR7JVpWba/cO7+9ceeQKBgQD270wz/GnnZ6SqWMYCPUg8kL1VwIIn/RdJ\ns8FHKTGO9hMEtjmyh4LCSEQH4JVUkkhuUaZnl4jtTr64kCEnHKOEIIEgSyy9gaET\n9lZuMksj4JO0Bm1TxILGmv/uAfzgGn/0McD2gNm47Yl66w8gbs9AA+CMk+ReW4jA\nuXnfnfJ08wKBgE3ILGiEfM/OLYJXGxKpAHLyBNSK4oaCA8jyLd/0dV3BdlrXlbxT\nIrNVrOF0lAjiCvc+bSudAl2wLOlZtQMLIsYaCb8iiaH/hQ9FPNoHaybkuFE42t7b\nORvRJJwadLvb4GRH182WZb1bMYgR65LRYSsEWQFW3FxF2k6pTCJ82i+ZAoGAXXsV\n1BBYXzwDQGG/BBYDBLqekpoAK/dKG6KrJq9XjZFmfcAmc4mNXNNSvdCtd4ixVuIe\nJtVdBslqtiAKDO5wkJJlj74lv9AVFKOK8MilXX2lLN/J/45DG8CN5qJmAsjFa8Jy\nFF+PDM0P4LKf1V1dpBRTq6RJLddlG+CbXKZEpTUCgYAQ6tuDgds2VguKrQGOp50k\n29x7TFCFylfm12rccwAbhG7QNMXfVkZ620a6TNH6CiuQjQALJZeoC9E3vj5iBlYN\nEa9oJ3b5s3TS6yNpU2goUvzkpymuT1Dij96DWlSwaiqrWQQRITVNS/pt8R5SS1Vy\n3c7NiU6oPSXmtuQZlg2aeQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "udayrahelkar@fampay-316108.iam.gserviceaccount.com",
+  "client_id": "105984960884936706313",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/udayrahelkar%40fampay-316108.iam.gserviceaccount.com"
+}
