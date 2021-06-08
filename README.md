@@ -1,13 +1,13 @@
 # FamPay
 
- To make an API to fetch latest videos sorted in reverse chronological order of their publishing date-time from YouTube for a given tag/search query in a paginated response
- search API to search the stored videos using their title and description.
+To make an API to fetch latest videos sorted in reverse chronological order of their publishing date-time from YouTube for a given tag/search query in a paginated response
+Search API to search the stored videos using their title and description.
 
 
 
 prerequesites 
---pthon 3.6 
---docker 
+-pthon 3.6 
+-docker 
 
 
 # Installation 
@@ -19,9 +19,9 @@ cd FamPay
 creating docker Image 
 docker build -t fampay .
 
- get the latest image id ex 64eb8a6e5e16
+get the latest image id ex 64eb8a6e5e16
 
- runing the docker instance of the application 
+runing the docker instance of the application 
 docker run -d -p 5000:5000 <image id>
   
 API: 
